@@ -1,6 +1,4 @@
-Tp 0. 
-
-Joaquín Pella.
+# A Tp 0 de Joaquín Pella.
 
 Primero corroboré la versión del compilador de C que tengo:
 ![image](https://github.com/JoacoPella/SSL/assets/92122699/fbd13ef4-fc06-4a3d-999e-831f40c7f97d)
